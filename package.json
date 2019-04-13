@@ -3,10 +3,23 @@
   "version": "1.0.0",
   "description": "nodejs rpc demo",
   "main": "index.js",
-  "author": "zhaixl",
-  "license": "ISC",
+  "license": "MIT",
+  "homepage": "https://github.com/zhaixinlong/node-rpc-demo",
+  "author": {
+    "name": "zhaixl",
+    "url": "https://github.com/zhaixinlong"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhaixinlong/node-rpc-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhaixinlong/node-rpc-demo/issues"
+  },
   "scripts": {
     "start": "node index.js"
+  },
+  "devDependencies": {
   },
   "dependencies": {
     "antpb": "^1.0.0",
